@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <br>
 -->
 <br>
+
 **About me:**
 
 Hello! I'm Shivam Maurya,
@@ -75,6 +76,7 @@ I am dedicated to empowering developer communities by fostering connections, sha
 - 😄 Unrealistic fun-fact : **My pipelines work with 100% efficiency.. Hahaaha**
 
 
+<br>
 <br>
 
 <!--
