@@ -30,13 +30,17 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-- ML Engineering Intern **India Meteorological Department(IMD)**
+- ML Engineering Intern @ **India Meteorological Department(IMD)**
 
-- Summer Research Intern **Woosong University, Republic of Korea**
+- Summer Research Intern @ **Woosong University, Republic of Korea**
+
+- Software Developer @ **GrubOut** and 
+
+- 🤝 I'm currently working on **GrubOut's propriety software**
 
 - 🌱 I’m currently exploring **Advance DevOPS concepts and Machine Learning**
 
-- 🤝 I'm currently working on **GrubOut's propriety software**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shimork04](https://github.com/Shimork04)
 
