@@ -34,9 +34,9 @@ I am dedicated to empowering developer communities by fostering connections, sha
 
 - 🌱 I’m currently exploring **Advance DevOPS concepts and Machine Learning**
 
-- 👨‍💻 Checkout my projects at : [https://github.com/Shimork04](https://github.com/Shimork04)
+- 👨‍💻 Checkout my projects at : **[https://github.com/Shimork04](https://github.com/Shimork04)**
 
-- 📝 Read some of my articles : [https://medium.com/@shimork](https://medium.com/@shimork)
+- 📝 Read some of my articles : **[https://medium.com/@shimork](https://medium.com/@shimork)**
 
 - 💬 Ask me about : **DevOPS, Software Development, Cloud Technologies, Machine Learning**
 
