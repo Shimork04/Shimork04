@@ -7,7 +7,7 @@
 <h2 align="center">"Passionate About Tech, Committed to Learning, and Strengthening Developer Community"</h2>
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shimork04&label=Profile%20views&color=0e75b6&style=flat" alt="shimork04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shimork04&label=Profile%20views&color=5D3FD3&style=flat" alt="shimork04" /> </p>
 <h3>
     
 **About me:**
