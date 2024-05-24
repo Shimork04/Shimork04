@@ -8,7 +8,11 @@
 
 <br/>
 
-<h2>**About me:**</h2>
+<h3>
+    
+**About me:**
+    
+</h3>
 
 Hello! I'm Shivam Maurya,
 
