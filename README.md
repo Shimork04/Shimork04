@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Shimork04/Shimork04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-[![MasterHead](https://media.istockphoto.com/id/1319039490/vector/devops-software-development-operations-infinity-symbol-programmer-administration-system-life.jpg?s=612x612&w=0&k=20&c=HgHNvWOkK4VW1LDlHwfUuR5IjeXtQNWuAX_CnMfV5rc=)]
+![MasterHead](https://media.istockphoto.com/id/1319039490/vector/devops-software-development-operations-infinity-symbol-programmer-administration-system-life.jpg?s=612x612&w=0&k=20&c=HgHNvWOkK4VW1LDlHwfUuR5IjeXtQNWuAX_CnMfV5rc=)
 
 <h1 align="center">Hey👋, It's Shivam Maurya (Shimork)</h1>
 <h3 align="center">"Tech Enthusiast, Lifelong Learner, and Advocate for Developer Synergy"</h3>
@@ -26,13 +25,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shimork04" alt="shimork04" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/MiY3.gif">
+(img align="right" alt="Coding" width="400" src="https://i.gifer.com/MiY3.gif")
 
 - ML Engineering Intern **India Meteorological Department(IMD)**
 
-- 🌱 I’m currently exploring **Advance DevOPS concepts and Machine Learning**
-
 - Summer Research Intern **Woosong University, Republic of Korea**
+
+- 🌱 I’m currently exploring **Advance DevOPS concepts and Machine Learning**
 
 - 🤝 I'm currently working on **GrubOut's propriety software**
 
@@ -44,7 +43,7 @@ Here are some ideas to get you started:
 
 - 📫 Reach me out at **mauryashivampersbiz@gmail.com**
 
-- ⚡ Unrealistic fun-fact **My pipelines work with 100% efficiency.. Hahaaha**
+- 😄 Unrealistic fun-fact **My pipelines work with 100% efficiency.. Hahaaha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
