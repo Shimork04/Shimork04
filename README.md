@@ -6,7 +6,7 @@
 
 <h2 align="center">"Passionate About Tech, Committed to Learning, and Strengthening Developer Community"</h2>
 
-<br>
+<br/>
 
 **About me:**
 
@@ -18,7 +18,7 @@ I am dedicated to empowering developer communities by fostering connections, sha
 
 "Let's create something extraordinary together."
 
-<br>
+<br/>
 
 - ML Engineering Intern @ **India Meteorological Department (IMD), New Delhi**
 
@@ -41,8 +41,8 @@ I am dedicated to empowering developer communities by fostering connections, sha
 - 😄 Unrealistic fun-fact : **My pipelines work with 100% efficiency.. Hahaaha**
 
 
-<br>
-<br>
+<br/>
+<br/>
 
 
 <div align="center"> 
