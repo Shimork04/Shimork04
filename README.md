@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <br>
 -->
-
+<br>
 **About me:**
 
 Hello! I'm Shivam Maurya,
@@ -52,8 +52,7 @@ I am dedicated to empowering developer communities by fostering connections, sha
 
 "Let's create something extraordinary together."
 
-<br><br>
-
+<br>
 
 - ML Engineering Intern @ **India Meteorological Department (IMD), New Delhi**
 
