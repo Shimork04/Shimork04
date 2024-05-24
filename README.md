@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/MiY3.gif">
 
-<div align="center">
+<br>
+<br>
 - ML Engineering Intern **India Meteorological Department(IMD)**
 
 - Summer Research Intern **Woosong University, Republic of Korea**
@@ -45,8 +46,10 @@ Here are some ideas to get you started:
 - 📫 Reach me out at **mauryashivampersbiz@gmail.com**
 
 - 😄 Unrealistic fun-fact **My pipelines work with 100% efficiency.. Hahaaha**
-</div>
 
+
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
