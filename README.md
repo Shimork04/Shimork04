@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 <br>
 -->
 
+About me:
+
 - ML Engineering Intern @ **India Meteorological Department (IMD), New Delhi**
 
 - Summer Research Intern @ **Woosong University, Republic of Korea**
