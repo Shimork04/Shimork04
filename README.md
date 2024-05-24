@@ -78,6 +78,7 @@ I am dedicated to empowering developer communities by fostering connections, sha
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shimork04&show_icons=true&locale=en" alt="shimork04" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shimork04&" alt="shimork04" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimork04&show_icons=true&locale=en&layout=compact" alt="shimork04" /></p>
