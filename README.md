@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 ![MasterHead](https://media.istockphoto.com/id/1319039490/vector/devops-software-development-operations-infinity-symbol-programmer-administration-system-life.jpg?s=612x612&w=0&k=20&c=HgHNvWOkK4VW1LDlHwfUuR5IjeXtQNWuAX_CnMfV5rc=)
   
 </div>
+
+<h1 align="center">Hey👋, It's Shivam Maurya (Shimork)</h1>
 -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Maurya!;" />
 </h1>
 
-<h1 align="center">Hey👋, It's Shivam Maurya (Shimork)</h1>
+
 <h2 align="center">"Passionate About Tech, Committed to Learning, and Strengthening Developer Community"</h2>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimork04&label=Profile%20views&color=0e75b6&style=flat" alt="shimork04" /> </p>
