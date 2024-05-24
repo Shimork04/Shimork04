@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hey👋, It's Shivam Maurya (Shimork)</h1>
-<h3 align="center">"Tech Enthusiast, Lifelong Learner, and Advocate for Developer Synergy"</h3>
+<h2 align="center">"Passionate About Tech, Committed to Learning, and Strengthening Developer Community"</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimork04&label=Profile%20views&color=0e75b6&style=flat" alt="shimork04" /> </p>
 
