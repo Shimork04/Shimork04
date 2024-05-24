@@ -87,7 +87,7 @@ About me:
   </a>
 </div>
 
-
+<br>
 <br>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -97,7 +97,7 @@ About me:
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,spring" /><br>
 </div>
 
-
+<br><br>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
