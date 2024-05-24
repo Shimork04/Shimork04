@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shimork04" alt="shimork04" /></a> </p>
 
-(img align="right" alt="Coding" width="400" src="https://i.gifer.com/MiY3.gif")
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/MiY3.gif">
 
 - ML Engineering Intern **India Meteorological Department(IMD)**
 
