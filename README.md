@@ -7,7 +7,7 @@
 <h2 align="center">"Passionate About Tech, Committed to Learning, and Strengthening Developer Community"</h2>
 
 <br/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=shimork04" alt="shimork04" />
 <h3>
     
 **About me:**
