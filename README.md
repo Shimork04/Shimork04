@@ -20,7 +20,7 @@ A passionate tech enthusiast with a relentless curiosity for exploring the lates
 
 I am dedicated to empowering developer communities by fostering connections, sharing knowledge, and driving innovation. Join me as I navigate the ever-evolving landscape of technology, embracing new opportunities and inspiring others along the way.​
 
-"Let's create something extraordinary together."
+**"Let's create something extraordinary together."**
 
 <br/>
 
