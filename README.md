@@ -44,6 +44,15 @@ Here are some ideas to get you started:
 
 About me:
 
+Hello! I'm Shivam Maurya,
+
+A passionate tech enthusiast with a relentless curiosity for exploring the latest advancements in technology. Eager to learn and always up for a challenge, I thrive on applying my knowledge to solve real-world problems. My journey in the tech world is fuelled by a commitment to continuous learning and a deep-seated belief in the power of collaboration.
+
+I am dedicated to empowering developer communities by fostering connections, sharing knowledge, and driving innovation. Join me as I navigate the ever-evolving landscape of technology, embracing new opportunities and inspiring others along the way.​
+
+"Let's create something extraordinary together."
+
+
 - ML Engineering Intern @ **India Meteorological Department (IMD), New Delhi**
 
 - Summer Research Intern @ **Woosong University, Republic of Korea**
