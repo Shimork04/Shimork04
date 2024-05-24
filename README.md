@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 <h2 align="center">"Passionate About Tech, Committed to Learning, and Strengthening Developer Community"</h2>
 <br>
+
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimork04&label=Profile%20views&color=0e75b6&style=flat" alt="shimork04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <span> <img src="https://github-profile-trophy.vercel.app/?username=shimork04" alt="shimork04" /></a> </p>
@@ -38,8 +40,9 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/MiY3.gif">
 
 <br>
+-->
 
-- ML Engineering Intern @ **India Meteorological Department(IMD)**
+- ML Engineering Intern @ **India Meteorological Department (IMD), New Delhi**
 
 - Summer Research Intern @ **Woosong University, Republic of Korea**
 
