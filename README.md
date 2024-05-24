@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
+<div align="center">
   
-  ![MasterHead](https://media.istockphoto.com/id/1319039490/vector/devops-software-development-operations-infinity-symbol-programmer-administration-system-life.jpg?s=612x612&w=0&k=20&c=HgHNvWOkK4VW1LDlHwfUuR5IjeXtQNWuAX_CnMfV5rc=)
+![MasterHead](https://media.istockphoto.com/id/1319039490/vector/devops-software-development-operations-infinity-symbol-programmer-administration-system-life.jpg?s=612x612&w=0&k=20&c=HgHNvWOkK4VW1LDlHwfUuR5IjeXtQNWuAX_CnMfV5rc=)
   
-  </p>
+</div>
 
 
 <h1 align="center">Hey👋, It's Shivam Maurya (Shimork)</h1>
