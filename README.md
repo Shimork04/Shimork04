@@ -4,7 +4,7 @@
 </h1>
 
 
-<h2 align="center">"Passionate About Tech, Committed to Learning, and Strengthening Developer Community"</h2>
+<h2 align="center">"Delivering High-Performance Full-Stack Solutions, Scalable Cloud Architectures, and Seamless DevOps Integration"</h2>
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimork04&label=Profile%20views&color=5D3FD3&style=flat" alt="shimork04" /> </p>
