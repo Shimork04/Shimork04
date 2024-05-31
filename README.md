@@ -30,19 +30,19 @@ I am dedicated to empowering developer communities by fostering connections, sha
 
 - Software Developer @ **GrubOut** and 
 
-- 🔭 I'm currently working on **GrubOut's propriety software**
+🔭 I'm currently working on **GrubOut's propriety software**
 
-- 🌱 I’m currently exploring **Advance DevOPS concepts and Machine Learning**
+🌱 I’m currently exploring **Advance DevOPS concepts and Machine Learning**
 
-- 👨‍💻 Checkout my projects at : **[https://github.com/Shimork04](https://github.com/Shimork04)**
+👨‍💻 Checkout my projects at : **[https://github.com/Shimork04](https://github.com/Shimork04)**
 
-- 📝 Read some of my articles : **[https://medium.com/@shimork](https://medium.com/@shimork)**
+📝 Read some of my articles : **[https://medium.com/@shimork](https://medium.com/@shimork)**
 
-- 💬 Ask me about : **DevOPS, Software Development, Cloud Technologies, Machine Learning**
+💬 Ask me about : **DevOPS, Software Development, Cloud Technologies, Machine Learning**
 
-- 📫 Reach me out at : **mauryashivampersbiz@gmail.com**
+📫 Reach me out at : **mauryashivampersbiz@gmail.com**
 
-- 😄 Unrealistic fun-fact : **My pipelines work with 100% efficiency.. Hahaaha**
+😄 Unrealistic fun-fact : **My pipelines work with 100% efficiency.. Hahaaha**
 
 -  Check out my website : **[https://mauryashivam.wixsite.com/portfolio](https://mauryashivam.wixsite.com/portfolio)**
 
