@@ -30,7 +30,7 @@ I am dedicated to empowering developer communities by fostering connections, sha
 
 - Software Developer @ **GrubOut** and 
 
-🔭 I'm currently working on **GrubOut's propriety software**
+🔭 I'm currently working on **Prixus**
 
 🌱 I’m currently exploring **Advance DevOPS concepts and Machine Learning**
 
