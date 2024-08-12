@@ -28,7 +28,7 @@ I am dedicated to empowering developer communities by fostering connections, sha
 
 - Summer Research Intern @ **Woosong University, Republic of Korea**
 
-- Software Developer @ **GrubOut** and 
+- Technical Lead @ **GrubOut**
 
 🔭 I'm currently working on **Prixus**
 
