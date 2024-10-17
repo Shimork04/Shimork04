@@ -24,9 +24,9 @@ I am dedicated to empowering developer communities by fostering connections, sha
 
 <br/>
 
-- ML Engineering Intern @ **India Meteorological Department (IMD), New Delhi**
+- Ex-MLOPs Intern @ **India Meteorological Department (IMD), New Delhi**
 
-- Summer Research Intern @ **Woosong University, Republic of Korea**
+- Ex-Summer Research Intern @ **Woosong University, Republic of Korea**
 
 - Technical Lead @ **GrubOut**
 
